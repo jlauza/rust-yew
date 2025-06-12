@@ -1,4 +1,6 @@
-# rust-yew
+<p align="center">
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust Logo" width="120"/>
+</p>
 
 This project is a simple Rust application. Currently, it demonstrates basic number comparison operations.
 
